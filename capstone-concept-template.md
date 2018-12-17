@@ -2,7 +2,7 @@
 
 Copy and paste this document into a [gist](https://gist.github.com/) and then edit it to create your capstone concept document.  This document is an example with the minimum content required for your capstone concept deliverable.  You are free to add further content to help you arrive at your capstone.
 
-# Capstone Concept - AUTHOR NAME
+# Capstone Concept - Katherine Fitzpatrick
 
 ## Problem Statement #1
 
